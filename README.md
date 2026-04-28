@@ -277,25 +277,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
-
-**Gourisankar G**
-- GitHub: [@Gourisankar25](https://github.com/Gourisankar25)
-- LinkedIn: [Gourisankar G](https://www.linkedin.com/in/gourisankar-g-274aa2246)
-- Email: kgourisankar01@gmail.com
-
-## 🙏 Acknowledgments
-
-- LangChain team for the excellent RAG framework
-- Ollama team for making local LLMs accessible
-- Streamlit for the intuitive UI framework
-- Meta AI for Llama 3.2 model
-- Facebook AI Research for FAISS vector search
-
-## 📧 Contact
-
-For questions or feedback, please open an issue or contact me at [kgourisankar01@gmail.com](mailto:kgourisankar01@gmail.com)
-
 ---
 
 ⭐ **Star this repo** if you find it helpful!
